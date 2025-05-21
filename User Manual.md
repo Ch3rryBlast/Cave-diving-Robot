@@ -20,3 +20,15 @@
 
 # How to use
 ### The robot has multiple componets that are all controlled by joysticks such as the arms.
+### This robot will wirelessly send signals to the arduino uno, so that the joystick and be used without a wire. 
+### There are going to be two different websites that you must keep track of, both of these are IP adresses. These are for both front and back cameras.
+### There will be one joystick per arm and there will be one joystick for the up and down movement of all four arms.
+### For joystick1 (Vertical movement) move the joystick up for arm 1 (Top left), down for arm 2 (Top right), left for arm 3 (bottom left), and right for arm 4 (top left)
+### For all arms, moving the joystick up and down will control the first joint, and side to side will control the second joint.
+### Each joystick will be labeled from 0-4. 0 being vertical and 1-4 being each arm.
+
+# Disassembly
+### the top of the robot is screwed in so to remove the top to access the arduino/electronic components you must unscrew the top part. If you want to remove or replace anyone of the join just simply unscrew the screws on each hinge.
+
+# How to program/customize
+###
