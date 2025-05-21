@@ -9,13 +9,13 @@
 ### e. Enter caves at your own risk.
 
 # Table of content
-1. [Use + Use Cases](#use--use-cases)
+## 1. Use + Use Cases
    
-2. [Disassembly](#disassembly)
+## 2. Disassembly
    
-3. [How to program/customize](#how-to-programcustomize)
+## 3. How to program/customize
    
-4. [Power requirements](#power-requirements)
+## 4. Power requirements
 
 # 1. Use + Use Cases
 ## Use
