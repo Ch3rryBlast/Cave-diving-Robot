@@ -9,10 +9,13 @@
 ### e. Enter caves at your own risk.
 
 # Table of content
-## 1. Use + Use Cases
-## 2. Disassembly
-## 3. How to program/customize
-## 4. Power requirements
+1. [Use + Use Cases](#use--use-cases)
+   
+2. [Disassembly](#disassembly)
+   
+3. [How to program/customize](#how-to-programcustomize)
+   
+4. [Power requirements](#power-requirements)
 
 # 1. Use + Use Cases
 ## Use
@@ -25,7 +28,9 @@
 ### Each joystick will be labeled from 0-4. 0 being vertical and 1-4 being each arm.
 ![Cave-robot](Cave-bot.png "cave-bot")
 ## Use cases
-# TODO DONT FORGET
+### The main use and what this robot was designed for is to navigate small caves that is impossible for humans to explore. 
+### This robot can also be used for small spaces in general, like when exploring a pipe or when exploring beneath a house.
+### But remember, this robot can only be used with caves a little less than its wing span.
 
 # 2. Disassembly
 ### The top of the robot is screwed in, so remove the top for arduino/electronic component access. 
