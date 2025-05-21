@@ -1,5 +1,6 @@
 # Cave-diving-Robot
 ## This robot was designed by Charan Thoka. The robot's purpose is to traverse small, tight, and narrow caves that humans can't explore. This robot can fufill one's curiosity while keeping them safe from the dangers of super small spaces. This inovative robot was designed with four different arms to help with verticle and horizontal movement. The robot is able to go through more areas then a simple car because this robot can go upwards. This cave diving robot also comes with two different cameras to help navigate forwards and backwards. Finally the robot comes with its own arduino that programable so this robot can be customizezed to your liking. 
+
 ## To use this robot is not easy, it takes time and training to fully master the movement. Once mastered you will be able to manuver around tight caves with hopefully ease.
 
 # Safety
@@ -18,3 +19,4 @@
 ## 4. Power requirements
 
 # How to use
+### The robot has multiple componets that are all controlled by joysticks such as the arms.
