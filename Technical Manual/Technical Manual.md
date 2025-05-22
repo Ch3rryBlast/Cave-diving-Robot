@@ -10,7 +10,7 @@
 
 ## Vision
 ### The body uses the camera ESP32-CAM which is a camera that is compatable with the arduino uno. This camera uses wifi to transmit its imaging online for the user to see, and to view said imaging you must input and IP adress that is provided.
-![ESP32-CAM](ESP32 Camera.jpg)
+![ESP32-CAM](ESP32-Camera.jpg)
 ### The highest resolution of the camera is 1600 by 1200 pixles. On the website there will be many settings for the camera such as the contrast.
 ### The camera can't have an website without wifi which is why the ESP32-WROOM which is a wifi module is needed.
 ### The ESP32-WROOM can make its own wifi service for the camera to use.
