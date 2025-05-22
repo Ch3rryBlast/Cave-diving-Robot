@@ -20,6 +20,7 @@
 ### For verticle movement there are four different circles each controlled by a DC motor.
 ### For each DC motor to move the ESP32-WROOM gets data from another ESP32-WROOM which is a part of the controller.
 ### The DC motors move by the Arduino Uno processing the data from the ESP32-WROOM and sending a analog voltage to the DC motors. The analog voltage controls speed instead of the DC motors either going full speed or not going at all.
+![The two circles on one side and the DC motors](Circles&DC.png)
 
 # 2. Technical Parts of the Arms
 ### The point of the arm is for horizontal and vertical movement.
