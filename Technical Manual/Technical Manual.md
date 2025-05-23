@@ -1,5 +1,5 @@
 # Cave Diving Robot Technical Manual
-### This robot uses the arduino uno and arduino components for all the electical work, the servo motors controlling the arm, the dc motors controling vertical movement, the ESP32-WROOM for communication with the joysticks, the ESP32-CAMERAs for sight of the cave, and the bread board for all the connections. All these parts are all controlled by the arduino uno, and all the mechanical parts are controlled by the arduino uno parts.
+### This robot uses the arduino uno and arduino components for electical work, the servo motors control the arms, the dc motors control vertical movement, the ESP32-WROOM for communication with the joysticks, the ESP32-CAMERAs for sight of the cave, and the bread board for all the connections. All these parts are all controlled by the arduino uno, and all the mechanical parts are controlled by the arduino uno parts.
 
 # Table of content
 ### 1. Technical Parts of the Body
@@ -17,7 +17,7 @@
 ### The ESP32-WROOM can make its own wifi service for the camera to use.
 
 ## Vertical Movement by the Body
-### For verticle movement there are four different circles each controlled by a DC motor.
+### For verticle movement there are four different circle joints each controlled by a DC motor.
 ### For each DC motor to move the ESP32-WROOM gets data from another ESP32-WROOM which is a part of the controller.
 ### The DC motors move by the Arduino Uno processing the data from the ESP32-WROOM and sending a analog voltage to the DC motors. The analog voltage controls speed instead of the DC motors either going full speed or not going at all.
 ![The two circles on one side and the DC motors](Circles&DC.png)
